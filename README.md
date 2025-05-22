@@ -5,13 +5,13 @@
 
 ## 📌 项目简介
 
-本项目旨在提升月球撞击坑的自动识别精度，尤其在小尺度撞击坑检测方面效果显著。我们基于YOLOv11框架，提出了三个创新模块：
+本项目旨在提升月球撞击坑的自动识别精度。我们基于YOLOv11框架，提出了三个创新模块：
 
 - 🧠 Context-Aware Module (CAM)  
 - 🧩 Spatial-Channel Fusion Module (SCFM)  
 - 🔗 Channel Attention Concatenation (CAC)
 
-该方法在嫦娥六号数据集上实现了优于现有模型的性能表现，尤其在mAP和Recall方面表现突出。
+该方法在嫦娥六号数据集上实现了优于现有模型的性能表现，尤其在mAP方面表现突出。
 
 ## 📝 论文信息
 
